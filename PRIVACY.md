@@ -1,6 +1,6 @@
 # PRIVACY POLICY
 
-This privacy policy governs your use of the software application Earl of Sandwich Samarinda (â€œApplicationâ€) developed by Matthew Joseph Martin ("The Developer"). The Application is a chatbot that enables you to order food from Earl of Sandwich Samarinda.
+This privacy policy governs your use of the software application Earl of Sandwich Samarinda ("Application") developed by Matthew Joseph Martin ("The Developer"). The Application is a chatbot that enables you to order food from Earl of Sandwich Samarinda.
 
 ## What information does the Application obtain and how is it used?
 
